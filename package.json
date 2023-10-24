@@ -1,0 +1,19 @@
+{
+  "name": "shivang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "indexx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harry",
+  
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^14.1.3",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
